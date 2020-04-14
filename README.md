@@ -4,12 +4,12 @@ This project created for experiments with Vue and Tailwindcss technologies
 
 ## Screenshots
 
-<img src="./screenshots/FlowMessages.jpg" width="250">
-<img src="./screenshots/Pricings.jpg" width="250">
-<img src="./screenshots/CardFlowMessages.jpg" width="250">
-<img src="./screenshots/SubscribeCards.jpg" width="250">
-<img src="./screenshots/ProjectCards.jpg" width="250">
-<img src="./screenshots/ARPermissions.jpg" width="250">
+<img src="./screenshots/FlowMessages.JPG" width="250">
+<img src="./screenshots/Pricings.JPG" width="250">
+<img src="./screenshots/CardFlowMessages.JPG" width="250">
+<img src="./screenshots/SubscribeCards.JPG" width="250">
+<img src="./screenshots/ProjectCards.JPG" width="250">
+<img src="./screenshots/ARPermissions.JPG" width="250">
 
 ## Inspiration
 
