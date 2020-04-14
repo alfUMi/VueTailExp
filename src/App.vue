@@ -4,7 +4,8 @@
     <!-- <Pricings /> -->
     <!-- <card-flow-messages /> -->
     <!-- <subscribe-cards /> -->
-    <project-cards />
+    <!-- <project-cards /> -->
+    <a-r-permissions />
   </div>
 </template>
 
@@ -13,7 +14,8 @@
 // import Pricings from './components/Pricings.vue';
 // import CardFlowMessages from './components/CardFlowMessages.vue';
 // import SubscribeCards from './components/SubscribeCards.vue';
-import ProjectCards from './components/ProjectCards.vue';
+// import ProjectCards from './components/ProjectCards.vue';
+import ARPermissions from './components/ARPermissions.vue';
 
 export default {
   name: 'App',
@@ -22,7 +24,8 @@ export default {
     // Pricings
     // CardFlowMessages
     // SubscribeCards
-    ProjectCards
+    // ProjectCards
+    ARPermissions
   }
 }
 </script>
