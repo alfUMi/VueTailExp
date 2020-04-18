@@ -33,9 +33,3 @@
         </div>
     </div>
 </template>
-
-<script>
-export default {
-    name: 'SubscribeCards'
-}
-</script>

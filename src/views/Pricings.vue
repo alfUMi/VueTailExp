@@ -17,7 +17,7 @@
                 <p>Password protected prototypes</p>
             </div>
 
-            <button class="border-2 p-2 ml-4 mr-4 mt-14 rounded-sm text-xs">Get Started</button>
+            <button class="border-2 p-2 ml-4 mr-4 mt-14 rounded-sm text-xs font-semibold hover:bg-freelancer hover:border-freelancer hover:text-white">Get Started</button>
         </div>
 
         <div class="bg-white w-64 h-21/30 border-t-6 border-startup flex justify-start flex-col text-center shadow-md">
@@ -38,13 +38,7 @@
                 <p>Password protected prototypes</p>
             </div>
 
-            <button class="border-2 p-2 ml-4 mr-4 mt-7 rounded-sm text-xs">Get Started</button>
+            <button class="border-2 p-2 ml-4 mr-4 mt-7 rounded-sm text-xs font-semibold hover:bg-startup hover:border-startup hover:text-white">Get Started</button>
         </div>
     </div>
 </template>
-
-<script>
-export default {
-    name: 'Pricings'
-}
-</script>

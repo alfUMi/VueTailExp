@@ -3,3 +3,7 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+.nav__item:hover {
+    @apply font-bold;
+}

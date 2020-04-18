@@ -172,9 +172,3 @@
         </div>
     </div>
 </template>
-
-<script>
-export default {
-    name: 'ProjectCards'
-}
-</script>
